@@ -23,10 +23,21 @@ theme:
     - navigation.tabs
     - navigation.sections
     - navigation.indexes
+    - navigation.expand
+    - navigation.path
+    - navigation.footer
     - navigation.top
+    - content.code.copy
+    - content.code.select
+    - content.tabs.link
     - toc.follow
+    - toc.integrate
     - search.suggest
     - search.highlight
+    - search.share
+
+extra_css:
+  - stylesheets/extra.css
 
 nav:
   - 首页: index.md
