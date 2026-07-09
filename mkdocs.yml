@@ -6,8 +6,8 @@ site_author: 夏天
 theme:
   name: material
   language: zh
-  logo: assets/images/logo_round_background.png
-  favicon: assets/images/logo_complex.png
+  logo: assets/images/logo_complex.png
+  favicon: assets/images/logo_round_background.png
   palette:
     - scheme: default
       primary: white
