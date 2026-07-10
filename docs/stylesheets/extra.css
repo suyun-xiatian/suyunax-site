@@ -219,8 +219,8 @@
 
 .home-card--learning { --card-accent: #356fe5; }
 .home-card--coding { --card-accent: #8a5bd7; }
-.home-card--exchange { --card-accent: #de7b35; }
-.home-card--life { --card-accent: #299276; }
+.home-card--footprints { --card-accent: #de7b35; }
+.home-card--essays { --card-accent: #299276; }
 
 .home-card:hover {
   border-color: var(--card-accent, var(--md-accent-fg-color));

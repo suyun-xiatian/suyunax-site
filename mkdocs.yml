@@ -1,6 +1,6 @@
 site_name: 夏天的个人网站
 site_url: https://suyunax.com
-site_description: 统计学习、编程实践、足球观察和 UCSB 交换记录
+site_description: 统计学习、编程实践、旅行足迹和生活随笔
 site_author: 夏天
 repo_url: https://github.com/suyun-xiatian/my-site
 repo_name: suyun-xiatian/my-site
@@ -22,7 +22,8 @@ theme:
       learning: material/book-open-page-variant
       code: fontawesome/solid/code
       life: material/coffee-outline
-      exchange: material/airplane
+      travel: material/map-marker-path
+      essay: material/feather
   palette:
     - scheme: default
       primary: white
@@ -83,7 +84,8 @@ nav:
   - 生活:
       - life/index.md
       - 足球: life/football.md
-      - UCSB 交换: life/ucsb.md
+      - 足迹: life/footprints.md
+      - 随笔: life/essays.md
       - 书影音: life/media.md
   - 更新日志: changelog.md
 
@@ -123,8 +125,9 @@ extra:
     项目: code
     足球: life
     书影音: life
-    UCSB: exchange
-    交换: exchange
+    足迹: travel
+    旅行: travel
+    随笔: essay
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/suyun-xiatian

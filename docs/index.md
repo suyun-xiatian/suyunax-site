@@ -1,6 +1,6 @@
 ---
 title: 首页
-description: 夏天的个人知识库，记录统计学习、编程实践、UCSB 交换与生活观察
+description: 夏天的个人知识库，记录统计学习、编程实践、旅行足迹与生活随笔
 hide:
   - toc
 ---
@@ -10,7 +10,7 @@ hide:
     <div class="home-hero__eyebrow">Personal Knowledge Base · 2026</div>
     <h1>把学习、代码和生活经验，整理成可以反复使用的知识。</h1>
     <p>
-      你好，我是夏天。这里记录统计与数据分析、Python 实践、UCSB 交换经历、足球观察和日常阅读。
+      你好，我是夏天。这里记录统计与数据分析、Python 实践、旅行足迹、足球观察和日常随笔。
       内容会保持简洁、可复查，并随着新的问题持续生长。
     </p>
     <div class="home-hero__actions">
@@ -54,20 +54,20 @@ hide:
   <span class="home-card__link">查看编程实践 →</span>
 </a>
 
-<a class="home-card home-card--exchange" href="life/ucsb/">
-  <span class="home-card__icon">✈</span>
-  <span class="home-card__label">Exchange Journal</span>
-  <h3>UCSB 交换</h3>
-  <p>交换申请、课程体验、校园生活和旅行记录，给之后出发的人留下一份具体参考。</p>
-  <span class="home-card__link">阅读交换记录 →</span>
+<a class="home-card home-card--footprints" href="life/footprints/">
+  <span class="home-card__icon">⌖</span>
+  <span class="home-card__label">Travel Footprints</span>
+  <h3>足迹</h3>
+  <p>记录去过的城市、走过的路线和旅途中的真实体验，把地点与当时的感受一起保存下来。</p>
+  <span class="home-card__link">查看旅行足迹 →</span>
 </a>
 
-<a class="home-card home-card--life" href="life/">
-  <span class="home-card__icon">◉</span>
-  <span class="home-card__label">Football &amp; Life</span>
-  <h3>足球与生活</h3>
-  <p>比赛观察、书影音和日常记录。这里保留学习之外的兴趣，也记录真实的生活切面。</p>
-  <span class="home-card__link">看看生活记录 →</span>
+<a class="home-card home-card--essays" href="life/essays/">
+  <span class="home-card__icon">✎</span>
+  <span class="home-card__label">Notes &amp; Essays</span>
+  <h3>随笔</h3>
+  <p>放下完整结构，记录当下的想法、阶段复盘和生活观察，让零散感受也有安放的位置。</p>
+  <span class="home-card__link">阅读生活随笔 →</span>
 </a>
 
 </div>
@@ -85,10 +85,10 @@ hide:
     <strong>项目与实践：把过程整理成可复现的记录</strong>
     <span>记录问题、输入、方法、结果、限制和下一步。</span>
   </a>
-  <a href="life/ucsb/">
-    <span class="featured-list__meta">生活 · UCSB</span>
-    <strong>UCSB 交换：从出发准备到校园生活</strong>
-    <span>围绕选课、住宿、交通和阶段体验逐步整理。</span>
+  <a href="life/footprints/">
+    <span class="featured-list__meta">生活 · 足迹</span>
+    <strong>足迹：把去过的地方整理成个人地图</strong>
+    <span>记录城市、路线、照片以及旅途中值得留下的片段。</span>
   </a>
 </div>
 
@@ -98,7 +98,7 @@ hide:
 
 - **2026-07-10**：[网站功能升级](changelog.md) - 加入文章标签、公式渲染、图片灯箱、源码入口和新的首页信息架构。
 - **2026-07-10**：[建站记录](coding/site.md) - 迁移至 Zensical，并启用 Modern 主题和新的部署流程。
-- **2026-07-08**：[UCSB 交换](life/ucsb.md) - 搭建交换记录页面，准备整理选课、住宿和出行经验。
+- **2026-07-10**：[生活栏目](life/index.md) - 新增足迹与随笔，重新整理生活内容结构。
 
 </div>
 
