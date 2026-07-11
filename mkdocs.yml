@@ -5,7 +5,7 @@ site_author: 夏天
 repo_url: https://github.com/suyun-xiatian/my-site
 repo_name: suyun-xiatian/my-site
 edit_uri: edit/main/docs/
-copyright: Copyright &copy; 2026 夏天 · 内容持续更新中
+copyright: Copyright &copy; 2026 夏天
 
 theme:
   name: material
@@ -24,7 +24,7 @@ theme:
       life: material/coffee-outline
       travel: material/map-marker-path
       essay: material/feather
-  palette:
+  palett:
     - scheme: default
       primary: white
       accent: blue
@@ -127,3 +127,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/suyun-xiatian
       name: GitHub
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/550495241
+      name: 哔哩哔哩
+    - icon: fontawesome/brands/zhihu
+      link: https://www.zhihu.com/people/shan-si-tao-hua-shi-sheng-kai-56
+      name: 知乎
