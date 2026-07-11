@@ -24,7 +24,7 @@ theme:
       life: material/coffee-outline
       travel: material/map-marker-path
       essay: material/feather
-  palett:
+  palette:
     - scheme: default
       primary: white
       accent: blue
