@@ -11,6 +11,7 @@ theme:
   name: material
   variant: modern
   language: zh
+  font: false
   logo: assets/images/branding/brand-mark.webp
   favicon: assets/images/branding/favicon-192.png
   icon:
@@ -46,6 +47,7 @@ theme:
     - navigation.tracking
     - navigation.footer
     - navigation.top
+    - navigation.instant
     - navigation.instant.progress
     - navigation.instant.prefetch
     - content.action.edit
@@ -66,7 +68,6 @@ extra_css:
 
 extra_javascript:
   - javascripts/mathjax.js
-  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
 
 nav:
   - 首页: index.md
